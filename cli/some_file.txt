@@ -1,0 +1,1 @@
+C:\Users\ThinkPad\PycharmProjects\Task5_Python package\cli\some_file.txt
