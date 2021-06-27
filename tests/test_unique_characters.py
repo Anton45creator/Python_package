@@ -1,4 +1,4 @@
-from cli.cli import unique_characters
+from src.cli.cli import unique_characters
 import pytest
 
 

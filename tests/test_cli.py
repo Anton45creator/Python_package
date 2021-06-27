@@ -1,4 +1,4 @@
-from cli import cli
+from src.cli import cli
 from unittest import mock
 import argparse
 
