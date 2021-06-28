@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='python package',
+    name='cli',
     version='1.0',
     url='https://git.foxminded.com.ua/Anton1/task5_python-package.git',
     author='Anton Viazovik',
