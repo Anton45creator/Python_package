@@ -7,9 +7,7 @@ setup(
     license='Apache 2.0',
     author='ThinkPad',
     author_email='Loukik56@mail.ru',
-    description='The package contains a command-line program that opens text '
-            'files and counts the number of unique characters in a string. '
-            'It also counts the number of characters in the entered string.',
+    description='A program that counts unique characters in a string.',
 
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
