@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1efe278-0e7e-4b4e-9b29-1df41080589e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/test_cli.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/test_unique_characters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
