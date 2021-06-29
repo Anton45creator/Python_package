@@ -1,0 +1,10 @@
+setup.py
+src/cli/__init__.py
+src/cli/cli.py
+src/task5_python_package.egg-info/PKG-INFO
+src/task5_python_package.egg-info/SOURCES.txt
+src/task5_python_package.egg-info/dependency_links.txt
+src/task5_python_package.egg-info/top_level.txt
+src/tests/__init__.py
+src/tests/test_cli.py
+src/tests/test_unique_characters.py
