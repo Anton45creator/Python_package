@@ -5,7 +5,7 @@ files using the command line and counts the number
 of unique characters in it. It also counts the
 number of characters in the entered string.
 
-###How to use this program?
+### How to use this program? ###
 
 In the command line, navigate to the program folder at the 
 specified path (src\cli).
